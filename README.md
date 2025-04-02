@@ -7,8 +7,8 @@ Welcome to the **LOKAL JOB LISTING APP**! 🚀 This app is designed to help user
 ## 📱 Screenshots
 
 <p align="center">
-  <img src="./assets/images/home.png" alt="Home Screen" width="250"/>
-  <img src="./assets/images/job-details.png" alt="Job Details Screen" width="250"/>
+  <img src="./screenshots/image1.jpg" alt="Home Screen" width="250"/>
+  <img src="./screenshots/image2/job-details.png" alt="Job Details Screen" width="250"/>
 </p>
 
 ---
@@ -34,8 +34,8 @@ Welcome to the **LOKAL JOB LISTING APP**! 🚀 This app is designed to help user
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-repo/job-listing-app.git
-   cd job-listing-app
+   git clone https://github.com/dhiraut/LOKAL_APP.git
+   cd LOKAL
    ```
 2. **Install dependencies:**
    ```bash
