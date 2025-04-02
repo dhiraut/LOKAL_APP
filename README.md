@@ -17,7 +17,7 @@ Welcome to the **LOKAL JOB LISTING APP**! 🚀 This app is designed to help user
 
 ▶️ [Watch the Demo](https://drive.google.com/file/d/1FTYV9b8tFHmcKNRMPIwX50v_SLxrOgRo/view?usp=sharing)
 ## 🚀 Features
-
+---
 ---
 - **Job Listings** – Discover various job opportunities effortlessly.  
 - **Job Details** – View complete information about each job.  
