@@ -8,7 +8,8 @@ Welcome to the **LOKAL JOB LISTING APP**! 🚀 This app is designed to help user
 
 <p align="center">
   <img src="./screenshots/image1.jpg" alt="Home Screen" width="250"/>
-  <img src="./screenshots/image2.jpg" alt="Job Details Screen" width="250"/>
+  <img src="./screenshots/image2.jpg" alt="Bookmarks" width="250"/>
+  [Watch the Demo](https://drive.google.com/file/d/1R2QTveahlkJlcCAErjgiPqFH8oXBuSU3/view?usp=sharing)
 </p>
 
 ---
